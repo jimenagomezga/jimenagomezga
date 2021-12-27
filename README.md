@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimenagomezga
 - 👀 I’m interested in programming and design
-- 🌱 I’m currently learning html, css, JavaScript, React
+- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS
 - 💞️ I’m looking to collaborate on front end developer
 - 📫 How to reach me LinkedIn
 
